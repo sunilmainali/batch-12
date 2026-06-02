@@ -1,4 +1,4 @@
 
 def main():
-    introduction = "This is a simple script that demonstrates basic syntax and functionality."
+    introduction = "This is a simple script that demonstrates basic syntax"
     print(introduction)
